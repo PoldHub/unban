@@ -1,0 +1,20 @@
+{
+  "name": "banspoldiani",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "express": "^4.19.2",
+    "express-session": "^1.17.3",
+    "node-fetch": "^2.6.7",
+    "passport": "^0.7.0",
+    "passport-discord": "^0.1.4"
+  }
+}
